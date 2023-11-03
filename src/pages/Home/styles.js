@@ -9,7 +9,6 @@ export const Container = styled.div`
   gap: 20px;
   font-family: 'Cinzel', serif;
   color: #fff;
-
 `;
 
 export const Title = styled.h2``;
