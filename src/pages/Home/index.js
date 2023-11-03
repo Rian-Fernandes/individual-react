@@ -11,7 +11,7 @@ const Home = () => {
 
   return (
     <C.Container>
-      <C.Title>Home</C.Title>
+      <C.Title>Bem-vindo ao Weather!</C.Title>
       <Search/>
       <Button Text="Sair" onClick={() => [signout(), navigate("/")]}>
         Sair

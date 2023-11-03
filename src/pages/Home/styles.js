@@ -7,6 +7,9 @@ export const Container = styled.div`
   flex-direction: column;
   height: 100vh;
   gap: 20px;
+  font-family: 'Cinzel', serif;
+  color: #fff;
+
 `;
 
 export const Title = styled.h2``;

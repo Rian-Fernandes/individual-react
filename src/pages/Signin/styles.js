@@ -27,13 +27,14 @@ export const Label = styled.label`
   font-size: 18px;
   font-weight: 600;
   color: #fff;
-  font-family: 'Caveat', cursive;;
+  font-family: 'Cinzel', serif;
 `;
 
 export const LabelSignup = styled.label`
-  font-size: 20px;
+  font-size: 15px;
+  font-weight:500;
   color: #676767;
-  font-family: 'Caveat', cursive;;
+  font-family: 'Cinzel', serif;
 `;
 
 export const labelError = styled.label`
