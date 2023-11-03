@@ -5,7 +5,7 @@
     transition: 0.4 ease-out;
 }
 
-.app.warm {
+.warm {
     background-image: url('/src/assets/warm-bg.jpg');
 }
 
