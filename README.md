@@ -24,12 +24,19 @@
     </ul>
     <h2>Tecnologias Utilizadas</h2>
     <ul>
-        <li>React.js</li>
-        <li>React Router (para as rotas)</li>
-        <li>JavaScript</li>
-        <li>HTML</li>
-        <li>CSS</li>
-    </ul>
+    <li><img src="https://miro.medium.com/v2/resize:fit:960/1*h7GMfvHKvLPkynG9NvULJw.gif" width="100" height="100">
+        <p>React.js</p>
+    </li>
+    <li><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622432919395/OStnZ-nKh.gif?auto=format,compress&gif-q=60&format=webm" alt="Icone do css" width="100" height="100">
+        <p>JavaScript</p>
+    </li>
+    <li><img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="Icone do Java Script" width="100" height="100">
+        <p>HTML</p>
+    </li>  
+     <li><img src="https://codewithtech.com/user-assets/img/icon/css-gif.gif" alt="Icone do Canva" width="100" height="100">
+        <p>CSS</p>
+    </li>  
+</ul>
     <h2>Instalação e Execução</h2>
     <ol>
         <li>Clone o repositório para o seu ambiente local.</li>
@@ -42,11 +49,23 @@
         <pre><code>npm start</code></pre>
     </ol>
     <p>Agora, sua aplicação estará disponível em <a href="http://localhost:3000">http://localhost:3000</a>.</p>
-    <h2>Uso</h2>
-    <ul>
-        <li>Navegue pelo menu de navegação para acessar diferentes rotas.</li>
-        <li>Utilize a barra de pesquisa para filtrar o array de informações.</li>
-    </ul>
+    <h2>Utilizando a aplicação no navegador</h2>
+   <ol>
+    <li>
+        <h3>Passo 1: Criando uma conta de acesso</h3>
+        <p>
+            Para poder ter acesso a página, clique no botão "Registre-se", insira um e-mail e uma senha válida conforme mostrado nas imagens.
+        </p>
+        <img src="" alt="Imagem do Passo 1" width="300">
+    </li>
+    <li>
+        <h3>Passo 2: Barra de Pesquisa</h3>
+        <p>
+            Utilize a barra de pesquisa localizada na página para filtrar as informações do aplicativo.
+        </p>
+        <img src="caminho-para-sua-imagem-do-passo-2.png" alt="Imagem do Passo 2" width="300">
+    </li>
+</ol>
     <hr>
     <p>Feito com ❤️ por <a href="https://github.com/seu-usuario">Seu Nome</a></p>
 </body>
