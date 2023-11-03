@@ -41,7 +41,7 @@ function Search () {
         ? ((weather.main.temp > 16) 
         ? styles.warm 
         : styles.app) 
-        : styles.app}>
+        : ('')}>
             <main>
                 <div className={styles.search_box}>
                 <input
