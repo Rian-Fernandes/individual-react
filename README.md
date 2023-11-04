@@ -54,16 +54,26 @@
     <li>
         <h3>Passo 1: Criando uma conta de acesso</h3>
         <p>
-            Para poder ter acesso a página, clique no botão "Registre-se", insira um e-mail e uma senha válida conforme mostrado nas imagens.
+            Para poder ter acesso a página, você irá precisar de uma conta. Clique no botão "Registre-se", insira um e-mail e uma senha válida conforme mostrado nas imagens.
         </p>
-        <img src="" alt="Imagem do Passo 1" width="300">
+        <img src="/images_readme/step1.png" alt="" width="300">
+        <img src="/images_readme/step1-1.png" alt="" width="300">
     </li>
     <li>
-        <h3>Passo 2: Barra de Pesquisa</h3>
+        <h3>Passo 2: Fazendo validação das credenciais</h3>
         <p>
-            Utilize a barra de pesquisa localizada na página para filtrar as informações do aplicativo.
+            Após criar sua conta, insira as credenciais nos seus respectivos campos para acessar a página principal.
         </p>
-        <img src="caminho-para-sua-imagem-do-passo-2.png" alt="Imagem do Passo 2" width="300">
+        <img src="/images_readme/step2.png" alt="" width="300">
+    </li>
+       <li>
+        <h3>Passo 3: Pesquisando informações climáticas</h3>
+        <p>
+            Quando estiver dentro da página, vá até search e digitar o nome de uma localidade ao redor do globo que você gostaria de obter informações a respeito do clima. Temperaturas acima de 16°C exibirão um background-image com fundo vermelho, temperaturas abaixo dessa faixa, exibirão uma imagem de fundo azul. Faça bom proveito!
+        </p>
+        <img src="/images_readme/step3.png" alt="" width="300">
+        <img src="/images_readme/step4.png" alt="" width="300">
+        <img src="/images_readme/step5.png" alt="" width="300">
     </li>
 </ol>
     <hr>
