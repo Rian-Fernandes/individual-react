@@ -77,6 +77,6 @@
     </li>
 </ol>
     <hr>
-    <p>Feito com ❤️ por <a href="https://github.com/seu-usuario">Seu Nome</a></p>
+    <p><a href="https://github.com/Rian-Fernandes">Rian Fernandes</a></p>
 </body>
 </html>
