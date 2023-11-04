@@ -77,6 +77,6 @@
     </li>
 </ol>
     <hr>
-    <p><a href="https://github.com/Rian-Fernandes">Rian Fernandes</a></p>
+    <p>Feito por:<a href="https://github.com/Rian-Fernandes">Rian Fernandes</a></p>
 </body>
 </html>
